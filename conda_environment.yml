@@ -1,0 +1,6 @@
+name: cartoons
+channels: default
+dependencies:
+- python=3.6
+- matplotlib
+- numpy
